@@ -37,14 +37,26 @@ $(".login").click(function(e){
         // Do stuff after successful login.
         console.log(user.get('centers'));
         centers = user.get('centers');
-
-        (function(global) {
-            global.localStorage.setItem("centers", centers);
-        }(window));
+        console.log(JSON.stringify(centers));
+        var seva = user.get('seva');
         
+        (function(global) {
+            global.localStorage.setItem("centers", JSON.stringify(centers));
+            global.localStorage.setItem("seva", seva);
+        }(window));
+
 
         e.preventDefault();
         window.location="pages/balaks.html";
+        
+        // if(seva === "Grader1" || seva === "Grader2" || seva === "Grader3" ) {
+        //     e.preventDefault();
+        //     window.location="pages/balaks.html";
+        // } else if(seva === "P.Sant") {
+        //     e.preventDefault();
+        //     window.location="pages/recom.html";
+        // }
+        
 
 
         // alert("centers: " + centers);
@@ -63,5 +75,22 @@ $(".login").click(function(e){
 
 })
 
+$(".forgot").click(function(){
 
+    var email = prompt("Please enter your email!");
+
+    event.preventDefault();
+
+    Parse.User.requestPasswordReset(email, {
+      success: function() {
+      // Password reset request was sent successfully
+        alert("Password Reset Email has been sent.")
+      },
+      error: function(error) {
+        // Show the error message somewhere
+        alert("Error: " + error.code + " " + error.message);
+      }
+    });
+
+})
 

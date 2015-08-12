@@ -14,6 +14,10 @@ body {
     font-size: large;
     color: #808080;
 }
+.titles-grade {
+    font-size: large;
+    color: red;
+}
 
 
 
@@ -106,6 +110,15 @@ fieldset[disabled] a.btn {
   font-size: 12px;
 }
 
+.medium {
+  width: 200px;
+  font-weight: bold;
+  font-size: 12px;
+  color: palevioletred;
+  margin: 5px;
+}
+
+
 
 
 .balak-card {
@@ -119,6 +132,183 @@ fieldset[disabled] a.btn {
 }
 
 
+
+.forgot {
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Arial', sans-serif;
+  font-weight: 700;
+  height: 40px;
+  padding: 0 8px;
+/* border-radius: 3px; */
+/* -webkit-user-select: none;
+  user-select: none; */
+}
+
+.forgot-submit {
+  /* border: 1px solid #3079ed; */
+  border: 0px;
+  color: #fff;
+  text-shadow: 0 1px rgba(0,0,0,0.1); 
+  background-color: #70FF68;
+  /* background-image: -webkit-gradient(linear, 0 0, 0 100%,   from(#4d90fe), to(#4787ed)); */
+}
+
+.forgot-submit:hover {
+  /* border: 1px solid #2f5bb7; */
+  border: 0px;
+  text-shadow: 0 1px rgba(0,0,0,0.3);
+  background-color: #00FF40;
+  /* background-image: -webkit-gradient(linear, 0 0, 0 100%,   from(#4d90fe), to(#357ae8)); */
+}
+
+
+.form-group{
+  margin-bottom:15px
+}
+
+
+.essay-card {
+  padding: 40px;
+  width: 50vw;
+  background-color: #F7F7F7;
+  margin: 0 auto 10px;
+  border-radius: 2px;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+}
+textarea#essay1 , textarea#essay2 , textarea#essay3 ,  textarea#essay4{
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    width: 95%;
+    display:initial;
+    box-sizing: border-box;
+    font-family: inherit;
+    color: #2C3E50;
+    font-size: 13px;
+}
+
+.essaysubmit {
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Arial', sans-serif;
+  font-weight: 700;
+  height: 40px;
+  padding: 0 8px;
+/* border-radius: 3px; */
+/* -webkit-user-select: none;
+  user-select: none; */
+}
+
+.essaysubmit-submit {
+  /* border: 1px solid #3079ed; */
+  border: 0px;
+  color: #fff;
+  text-shadow: 0 1px rgba(0,0,0,0.1); 
+  background-color: #1E74FF;
+  /* background-image: -webkit-gradient(linear, 0 0, 0 100%,   from(#4d90fe), to(#4787ed)); */
+}
+
+.essaysubmit-submit:hover {
+  /* border: 1px solid #2f5bb7; */
+  border: 0px;
+  text-shadow: 0 1px rgba(0,0,0,0.3);
+  background-color: #6FA2FF;
+  /* background-image: -webkit-gradient(linear, 0 0, 0 100%,   from(#4d90fe), to(#357ae8)); */
+}
+
+form#essay {
+  text-align:center;
+}
+
+input#gradedEssay{
+  display:inline-block;
+  width:19px;
+  height:19px;
+  margin:-1px 4px 0 0;
+  vertical-align:middle;
+  cursor:pointer;
+}
+
+textarea#recomcomment{
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    width: 95%;
+    display:initial;
+    box-sizing: border-box;
+    font-family: inherit;
+    color: #2C3E50;
+    font-size: 13px;
+}
+
+.recomsubmit {
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Arial', sans-serif;
+  font-weight: 700;
+  height: 40px;
+  padding: 0 8px;
+  color: darkblue;
+}
+
+
+
+.back {
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Arial', sans-serif;
+  font-weight: 700;
+  height: 40px;
+  padding: 0 8px;
+
+    border: 0px;
+  color: #fff;
+  text-shadow: 0 1px rgba(0,0,0,0.1); 
+  background-color: darkorange;
+/* border-radius: 3px; */
+/* -webkit-user-select: none;
+  user-select: none; */
+}
+
+
+.home {
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Arial', sans-serif;
+  font-weight: 700;
+  height: 40px;
+  padding: 0 8px;
+
+    border: 0px;
+  color: #fff;
+  text-shadow: 0 1px rgba(0,0,0,0.1); 
+  background-color: green;
+  width: 100%;
+/* border-radius: 3px; */
+/* -webkit-user-select: none;
+  user-select: none; */
+}
+
+
+h3#header {
+    margin: auto;
+    color: firebrick;
+}
+
+
+.rcsubmit {
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Arial', sans-serif;
+  font-weight: 700;
+  height: 40px;
+  padding: 0 8px;
+  color: darkblue;
+}
 
 
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
@@ -274,7 +464,7 @@ fieldset[disabled] a.btn {
 
 .register {
   text-align: center;
-  font-size: 14px;
+  font-size: 20px;
   font-family: 'Arial', sans-serif;
   font-weight: 700;
   height: 36px;
