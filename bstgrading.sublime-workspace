@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"cent",
+				"centersend"
+			],
+			[
 				"app",
 				"appendChild"
 			],
@@ -359,7 +363,7 @@
 			"file": "js/login.js",
 			"settings":
 			{
-				"buffer_size": 2034,
+				"buffer_size": 2353,
 				"line_ending": "Windows"
 			}
 		},
@@ -367,7 +371,7 @@
 			"file": "pages/balaks.html",
 			"settings":
 			{
-				"buffer_size": 1016,
+				"buffer_size": 1068,
 				"line_ending": "Windows"
 			}
 		},
@@ -375,7 +379,39 @@
 			"file": "js/balaks.js",
 			"settings":
 			{
-				"buffer_size": 3888,
+				"buffer_size": 7847,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pages/rc.html",
+			"settings":
+			{
+				"buffer_size": 6115,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/rc.js",
+			"settings":
+			{
+				"buffer_size": 3347,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pages/recom.html",
+			"settings":
+			{
+				"buffer_size": 2139,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/recom.js",
+			"settings":
+			{
+				"buffer_size": 3042,
 				"line_ending": "Windows"
 			}
 		},
@@ -383,7 +419,7 @@
 			"file": "pages/essay.html",
 			"settings":
 			{
-				"buffer_size": 4786,
+				"buffer_size": 4871,
 				"line_ending": "Windows"
 			}
 		},
@@ -391,7 +427,7 @@
 			"file": "js/essay.js",
 			"settings":
 			{
-				"buffer_size": 3036,
+				"buffer_size": 3100,
 				"line_ending": "Windows"
 			}
 		},
@@ -399,7 +435,7 @@
 			"file": "pages/register.html",
 			"settings":
 			{
-				"buffer_size": 4720,
+				"buffer_size": 4625,
 				"line_ending": "Windows"
 			}
 		},
@@ -412,43 +448,11 @@
 			}
 		},
 		{
-			"file": "/C/Users/Jay Patel/Desktop/RC Seva/AdhiveshanSS15/AdhiveshanCC080915_BMFINAL/AdhiveshanCC080915_BMFINAL/AdhiveshanCC080615_BMFINAL/Adhiveshan/menuBM.html",
-			"settings":
-			{
-				"buffer_size": 1413,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "css/style.css",
 			"settings":
 			{
-				"buffer_size": 9004,
+				"buffer_size": 10422,
 				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/Users/Jay Patel/Desktop/RC Seva/AdhiveshanSS15/AdhiveshanCC080915_BMFINAL/AdhiveshanCC080915_BMFINAL/AdhiveshanCC080615_BMFINAL/Adhiveshan/js/scoringBM.js",
-			"settings":
-			{
-				"buffer_size": 49465,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/Users/Jay Patel/Desktop/RC Seva/AdhiveshanSS15/AdhiveshanCC080915_BMFINAL/AdhiveshanCC080915_BMFINAL/AdhiveshanCC080615_BMFINAL/Adhiveshan/scoringBM.html",
-			"settings":
-			{
-				"buffer_size": 1910,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "css/bootstrap.min.css",
-			"settings":
-			{
-				"buffer_size": 122519,
-				"line_ending": "Windows"
 			}
 		}
 	],
@@ -492,22 +496,25 @@
 	},
 	"file_history":
 	[
+		"/C/xampp/htdocs/BSTGrading/css/bootstrap.min.css",
+		"/C/Users/Jay Patel/Desktop/RC Seva/AdhiveshanSS15/AdhiveshanCC080915_BMFINAL/AdhiveshanCC080915_BMFINAL/AdhiveshanCC080615_BMFINAL/Adhiveshan/scoringBM.html",
+		"/C/Users/Jay Patel/Desktop/RC Seva/AdhiveshanSS15/AdhiveshanCC080915_BMFINAL/AdhiveshanCC080915_BMFINAL/AdhiveshanCC080615_BMFINAL/Adhiveshan/js/scoringBM.js",
+		"/C/Users/Jay Patel/Desktop/RC Seva/AdhiveshanSS15/AdhiveshanCC080915_BMFINAL/AdhiveshanCC080915_BMFINAL/AdhiveshanCC080615_BMFINAL/Adhiveshan/menuBM.html",
+		"/C/xampp/htdocs/BSTGrading/js/recom.js",
+		"/C/xampp/htdocs/BSTGrading/pages/essay.html",
+		"/C/xampp/htdocs/BSTGrading/js/balaks.js",
+		"/C/xampp/htdocs/BSTGrading/pages/recom.html",
 		"/C/xampp/htdocs/BSTGrading/js/essay.js",
 		"/C/xampp/htdocs/website/index.html",
 		"/C/xampp/htdocs/BSTWebsite Backup/index.html",
 		"/C/xampp/htdocs/BSTGrading/pages/register.html",
-		"/C/xampp/htdocs/BSTGrading/js/balaks.js",
 		"/C/xampp/htdocs/BSTGrading/js/login.js",
 		"/C/Users/Jay Patel/Documents/GitHub/BSTWebsite/js/app.js",
 		"/C/Users/Jay Patel/Desktop/SS15CertificateGenerator/CGREADME.txt",
 		"/C/Users/Jay Patel/Desktop/SS15CertificateGenerator-2015-08-04/SS15CertificateGenerator/CGREADME.txt",
 		"/C/xampp/htdocs/BSTGrading/css/bootstrap.css",
-		"/C/xampp/htdocs/BSTGrading/css/bootstrap.min.css",
 		"/C/xampp/htdocs/BSTGrading/css/style.css",
-		"/C/Users/Jay Patel/Desktop/RC Seva/AdhiveshanSS15/AdhiveshanCC080915_BMFINAL/AdhiveshanCC080915_BMFINAL/AdhiveshanCC080615_BMFINAL/Adhiveshan/js/scoringBM.js",
-		"/C/Users/Jay Patel/Desktop/RC Seva/AdhiveshanSS15/AdhiveshanCC080915_BMFINAL/AdhiveshanCC080915_BMFINAL/AdhiveshanCC080615_BMFINAL/Adhiveshan/menuBM.html",
 		"/C/Users/Jay Patel/Desktop/RC Seva/AdhiveshanSS15/AdhiveshanCC080915_BMFINAL/AdhiveshanCC080915_BMFINAL/AdhiveshanCC080615_BMFINAL/Adhiveshan/index.html",
-		"/C/Users/Jay Patel/Desktop/RC Seva/AdhiveshanSS15/AdhiveshanCC080915_BMFINAL/AdhiveshanCC080915_BMFINAL/AdhiveshanCC080615_BMFINAL/Adhiveshan/scoringBM.html",
 		"/C/Users/Jay Patel/Desktop/RC Seva/AdhiveshanSS15/AdhiveshanCC080915_BMFINAL/AdhiveshanCC080915_BMFINAL/AdhiveshanCC080615_BMFINAL/Adhiveshan/js/main.js",
 		"/C/Users/Jay Patel/AppData/Local/Temp/Temp2_sign-up-login-box.zip/index.html",
 		"/C/Users/Jay Patel/AppData/Local/Temp/Temp2_log-in.zip/index.html",
@@ -616,10 +623,7 @@
 		"/C/Users/Jay Patel/Desktop/CS 2110/Old/CS2110-master/timeLab4/list.c",
 		"/C/Users/Jay Patel/Desktop/CS 2110/Old/CS-2110-master/Labs/timed_lab_04/TL4MAKEUP/tllist.h",
 		"/C/Users/Jay Patel/Desktop/CS 2110/Old/CS-2110-master/Labs/timed_lab_04/TL4MAKEUP/tllist.c",
-		"/C/Users/Jay Patel/Desktop/CS 2110/Old/Old Trials/main.c",
-		"/C/Users/Jay Patel/Desktop/CS 2110/Old/Old Trials/list.c",
-		"/C/Users/Jay Patel/Desktop/CS 2110/Old/Old Trials/timedlab4/list.c",
-		"/C/Users/Jay Patel/Desktop/CS 2110/Old/Old Trials/extra/list.c"
+		"/C/Users/Jay Patel/Desktop/CS 2110/Old/Old Trials/main.c"
 	],
 	"find":
 	{
@@ -637,6 +641,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"example",
+			"})",
+			"name",
 			"form-group",
 			"button",
 			"buttons",
@@ -761,10 +768,7 @@
 			"3342",
 			"0000",
 			"3342",
-			"unsigned",
-			"buffer",
-			"data",
-			"header"
+			"unsigned"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -798,7 +802,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 10,
 			"sheets":
 			[
 				{
@@ -834,25 +838,25 @@
 					"file": "js/login.js",
 					"settings":
 					{
-						"buffer_size": 2034,
+						"buffer_size": 2353,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								283,
-								283
+								1018,
+								1018
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 169.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -862,15 +866,15 @@
 					"file": "pages/balaks.html",
 					"settings":
 					{
-						"buffer_size": 1016,
+						"buffer_size": 1068,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								358,
-								358
+								363,
+								363
 							]
 						],
 						"settings":
@@ -890,15 +894,15 @@
 					"file": "js/balaks.js",
 					"settings":
 					{
-						"buffer_size": 3888,
+						"buffer_size": 7847,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								3888
+								3312,
+								3312
 							]
 						],
 						"settings":
@@ -908,25 +912,25 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 562.0,
+						"translation.y": 1443.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 4,
-					"file": "pages/essay.html",
+					"file": "pages/rc.html",
 					"settings":
 					{
-						"buffer_size": 4786,
+						"buffer_size": 6115,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								409,
-								388
+								5148,
+								5148
 							]
 						],
 						"settings":
@@ -936,25 +940,25 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 117.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 5,
-					"file": "js/essay.js",
+					"file": "js/rc.js",
 					"settings":
 					{
-						"buffer_size": 3036,
+						"buffer_size": 3347,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1353,
-								1404
+								319,
+								319
 							]
 						],
 						"settings":
@@ -971,18 +975,18 @@
 				},
 				{
 					"buffer": 6,
-					"file": "pages/register.html",
+					"file": "pages/recom.html",
 					"settings":
 					{
-						"buffer_size": 4720,
+						"buffer_size": 2139,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1455,
-								1455
+								94,
+								94
 							]
 						],
 						"settings":
@@ -992,57 +996,53 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 361.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 7,
-					"file": "js/register.js",
+					"file": "js/recom.js",
 					"settings":
 					{
-						"buffer_size": 1706,
+						"buffer_size": 3042,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								735,
-								735
-							],
-							[
-								875,
-								875
+								0,
+								3042
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 90.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 8,
-					"file": "/C/Users/Jay Patel/Desktop/RC Seva/AdhiveshanSS15/AdhiveshanCC080915_BMFINAL/AdhiveshanCC080915_BMFINAL/AdhiveshanCC080615_BMFINAL/Adhiveshan/menuBM.html",
+					"file": "pages/essay.html",
 					"settings":
 					{
-						"buffer_size": 1413,
+						"buffer_size": 4871,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								439,
-								439
+								84,
+								84
 							]
 						],
 						"settings":
@@ -1059,74 +1059,46 @@
 				},
 				{
 					"buffer": 9,
-					"file": "css/style.css",
+					"file": "js/essay.js",
 					"settings":
 					{
-						"buffer_size": 9004,
+						"buffer_size": 3100,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4541,
-								4541
+								193,
+								193
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2655.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 10,
-					"file": "/C/Users/Jay Patel/Desktop/RC Seva/AdhiveshanSS15/AdhiveshanCC080915_BMFINAL/AdhiveshanCC080915_BMFINAL/AdhiveshanCC080615_BMFINAL/Adhiveshan/js/scoringBM.js",
+					"file": "pages/register.html",
 					"settings":
 					{
-						"buffer_size": 49465,
+						"buffer_size": 4625,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								12981,
-								12981
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2835.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 11,
-					"file": "/C/Users/Jay Patel/Desktop/RC Seva/AdhiveshanSS15/AdhiveshanCC080915_BMFINAL/AdhiveshanCC080915_BMFINAL/AdhiveshanCC080615_BMFINAL/Adhiveshan/scoringBM.html",
-					"settings":
-					{
-						"buffer_size": 1910,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								689,
-								689
+								3405,
+								3405
 							]
 						],
 						"settings":
@@ -1136,33 +1108,63 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 95.0,
+						"translation.y": 884.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 12,
-					"file": "css/bootstrap.min.css",
+					"buffer": 11,
+					"file": "js/register.js",
 					"settings":
 					{
-						"buffer_size": 122519,
+						"buffer_size": 1706,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								40466,
-								40476
+								470,
+								470
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
-						"translation.x": 240908.0,
-						"translation.y": 0.0,
+						"translation.x": 0.0,
+						"translation.y": 520.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "css/style.css",
+					"settings":
+					{
+						"buffer_size": 10422,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5937,
+								5937
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2927.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

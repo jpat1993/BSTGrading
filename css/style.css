@@ -223,14 +223,15 @@ form#essay {
   text-align:center;
 }
 
-input#gradedEssay{
+input[type="checkbox"] {
   display:inline-block;
   width:19px;
   height:19px;
-  margin:-1px 4px 0 0;
+  margin:2px;
   vertical-align:middle;
   cursor:pointer;
 }
+
 
 textarea#recomcomment{
     padding: 15px;
