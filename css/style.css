@@ -311,6 +311,9 @@ h3#header {
   color: darkblue;
 }
 
+h3 {
+    text-align: center;
+}
 
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 
@@ -330,7 +333,7 @@ h3#header {
 }
 
 .login-card h1 {
-  font-weight: 100;
+  font-weight: bold;
   text-align: center;
   font-size: 2.3em;
 }
