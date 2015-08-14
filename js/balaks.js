@@ -81,9 +81,10 @@ function essayLayout(results) {
         var check = document.createElement('input');
         check.type = 'checkbox';
         check.id = 'gradedEssay';
-        check.disabled = true;
+        // check.disabled = true;
+        check.setAttribute("onclick", "return false");
 
-        var checker = seva + "checked";
+        var checker = seva + "essaycheck";
         if (object.get(checker) === true) {
             check.checked = true;   
         } else {
@@ -140,7 +141,8 @@ function recomLayout(results) {
         var check = document.createElement('input');
         check.type = 'checkbox';
         check.id = 'recomDone';
-        check.disabled = true;
+        // check.disabled = true;
+        check.setAttribute("onclick", "return false");
 
         var checker = seva + "recomcheck";
         if (object.get(checker) === true) {
@@ -196,7 +198,8 @@ function rcLayout(results) {
         var check = document.createElement('input');
         check.type = 'checkbox';
         check.id = 'recomDone';
-        check.disabled = true;
+        // check.disabled = true;
+        check.setAttribute("onclick", "return false");
 
         var checker = seva + "recomcheck";
         if (object.get(checker) === true) {
@@ -214,7 +217,8 @@ function rcLayout(results) {
         var check2 = document.createElement('input');
         check2.type = 'checkbox';
         check2.id = 'niyamDone';
-        check2.disabled = true;
+        // check2.disabled = true;
+        check.setAttribute("onclick", "return false");
 
         var checker2 = seva + "niyamcheck";
         if (object.get(checker2) === true) {
@@ -232,7 +236,8 @@ function rcLayout(results) {
         var check3 = document.createElement('input');
         check3.type = 'checkbox';
         check3.id = 'balactDone';
-        check3.disabled = true;
+        // check3.disabled = true;
+        check.setAttribute("onclick", "return false");
 
         var checker3 = seva + "balactcheck";
         if (object.get(checker3) === true) {

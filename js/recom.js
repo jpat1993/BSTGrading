@@ -81,6 +81,8 @@ $(".recomsubmit").click(function(){
   var check;
   query.get(id, {
       success: function(details) {
+        var checker = true;
+        var count = 0;
           for (var prop in values) {
                 var lookup = values[prop].name;
                 console.log(lookup);
@@ -90,15 +92,18 @@ $(".recomsubmit").click(function(){
 
                   name = seva + lookup;
                   value = values[prop].value;
-                  // add to PARSE
-                  
                   details.set(name, value);
+                  count++;
                   
                 }
 
           };
+
+          if (count !== 2) {
+            checker = false;
+          }
           check = seva + "recomcheck";
-          details.set(check, true);
+          details.set(check, checker);
           details.save(null, {
             success: function(details) {
               console.log("success" + name);

@@ -355,7 +355,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 1356,
+				"buffer_size": 1361,
 				"line_ending": "Unix"
 			}
 		},
@@ -451,7 +451,7 @@
 			"file": "css/style.css",
 			"settings":
 			{
-				"buffer_size": 10422,
+				"buffer_size": 10420,
 				"line_ending": "Unix"
 			}
 		}
@@ -496,6 +496,8 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Jay Patel/Desktop/DeDRM_tools_6.3.3/ReadMe_First.txt",
+		"/C/Users/Jay Patel/Desktop/DeDRM_tools_6.3.3/DeDRM_calibre_plugin/DeDRM_plugin_ReadMe.txt",
 		"/C/xampp/htdocs/BSTGrading/css/bootstrap.min.css",
 		"/C/Users/Jay Patel/Desktop/RC Seva/AdhiveshanSS15/AdhiveshanCC080915_BMFINAL/AdhiveshanCC080915_BMFINAL/AdhiveshanCC080615_BMFINAL/Adhiveshan/scoringBM.html",
 		"/C/Users/Jay Patel/Desktop/RC Seva/AdhiveshanSS15/AdhiveshanCC080915_BMFINAL/AdhiveshanCC080915_BMFINAL/AdhiveshanCC080615_BMFINAL/Adhiveshan/js/scoringBM.js",
@@ -621,9 +623,7 @@
 		"/C/Users/Jay Patel/Desktop/CS 2110/Timed Lab 4/timedlab4/valgrind1.c",
 		"/C/Users/Jay Patel/Desktop/CS 2110/Timed Lab 4/timedlab4/valgrind2.c",
 		"/C/Users/Jay Patel/Desktop/CS 2110/Old/CS2110-master/timeLab4/list.c",
-		"/C/Users/Jay Patel/Desktop/CS 2110/Old/CS-2110-master/Labs/timed_lab_04/TL4MAKEUP/tllist.h",
-		"/C/Users/Jay Patel/Desktop/CS 2110/Old/CS-2110-master/Labs/timed_lab_04/TL4MAKEUP/tllist.c",
-		"/C/Users/Jay Patel/Desktop/CS 2110/Old/Old Trials/main.c"
+		"/C/Users/Jay Patel/Desktop/CS 2110/Old/CS-2110-master/Labs/timed_lab_04/TL4MAKEUP/tllist.h"
 	],
 	"find":
 	{
@@ -802,7 +802,7 @@
 	"groups":
 	[
 		{
-			"selected": 10,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -810,15 +810,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 1356,
+						"buffer_size": 1361,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								640,
-								564
+								127,
+								127
 							]
 						],
 						"settings":
@@ -901,8 +901,8 @@
 						"selection":
 						[
 							[
-								3312,
-								3312
+								6927,
+								6937
 							]
 						],
 						"settings":
@@ -912,7 +912,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1443.0,
+						"translation.y": 93.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -996,7 +996,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 72.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1013,8 +1013,8 @@
 						"selection":
 						[
 							[
-								0,
-								3042
+								572,
+								572
 							]
 						],
 						"settings":
@@ -1108,7 +1108,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 884.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1136,7 +1136,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 520.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1146,15 +1146,15 @@
 					"file": "css/style.css",
 					"settings":
 					{
-						"buffer_size": 10422,
+						"buffer_size": 10420,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5937,
-								5937
+								4509,
+								4509
 							]
 						],
 						"settings":
@@ -1164,7 +1164,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2927.0,
+						"translation.y": 2870.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

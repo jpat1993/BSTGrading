@@ -18,7 +18,7 @@ function loadRc() {
 
     event.preventDefault();
 
-    var values = $("#recomform").serializeArray();
+    var values = $("#rcform").serializeArray();
     console.log(values);
     
 
@@ -110,7 +110,7 @@ $(".rcsubmit").click(function(){
             error: function(details, error) {
               // Execute any logic that should take place if the save fails.
               // error is a Parse.Error with an error code and message.
-              alert('Failed to add Recommendation, with error code: ' + error.message);
+              alert('Failed to add Recommendation, Niyam, and Bal Activity, with error code: ' + error.message);
             }
           });          
 
