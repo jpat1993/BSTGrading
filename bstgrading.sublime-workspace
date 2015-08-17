@@ -363,7 +363,7 @@
 			"file": "js/login.js",
 			"settings":
 			{
-				"buffer_size": 2353,
+				"buffer_size": 2357,
 				"line_ending": "Windows"
 			}
 		},
@@ -379,7 +379,7 @@
 			"file": "js/balaks.js",
 			"settings":
 			{
-				"buffer_size": 8140,
+				"buffer_size": 8159,
 				"line_ending": "Windows"
 			}
 		},
@@ -395,7 +395,7 @@
 			"file": "js/rc.js",
 			"settings":
 			{
-				"buffer_size": 3369,
+				"buffer_size": 3373,
 				"line_ending": "Windows"
 			}
 		},
@@ -411,7 +411,7 @@
 			"file": "js/recom.js",
 			"settings":
 			{
-				"buffer_size": 3141,
+				"buffer_size": 3145,
 				"line_ending": "Windows"
 			}
 		},
@@ -427,7 +427,7 @@
 			"file": "js/essay.js",
 			"settings":
 			{
-				"buffer_size": 3195,
+				"buffer_size": 3199,
 				"line_ending": "Windows"
 			}
 		},
@@ -443,7 +443,7 @@
 			"file": "js/register.js",
 			"settings":
 			{
-				"buffer_size": 1849,
+				"buffer_size": 1853,
 				"line_ending": "Windows"
 			}
 		},
@@ -802,7 +802,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -838,15 +838,15 @@
 					"file": "js/login.js",
 					"settings":
 					{
-						"buffer_size": 2353,
+						"buffer_size": 2357,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								765,
-								765
+								321,
+								321
 							]
 						],
 						"settings":
@@ -856,7 +856,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 78.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -894,16 +894,12 @@
 					"file": "js/balaks.js",
 					"settings":
 					{
-						"buffer_size": 8140,
+						"buffer_size": 8159,
 						"regions":
 						{
 						},
 						"selection":
 						[
-							[
-								8043,
-								8043
-							]
 						],
 						"settings":
 						{
@@ -912,7 +908,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3139.0,
+						"translation.y": 1317.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -950,15 +946,15 @@
 					"file": "js/rc.js",
 					"settings":
 					{
-						"buffer_size": 3369,
+						"buffer_size": 3373,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1753,
-								1753
+								126,
+								126
 							]
 						],
 						"settings":
@@ -968,7 +964,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 754.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1006,15 +1002,15 @@
 					"file": "js/recom.js",
 					"settings":
 					{
-						"buffer_size": 3141,
+						"buffer_size": 3145,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1845,
-								1845
+								126,
+								126
 							]
 						],
 						"settings":
@@ -1024,7 +1020,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 440.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1062,15 +1058,15 @@
 					"file": "js/essay.js",
 					"settings":
 					{
-						"buffer_size": 3195,
+						"buffer_size": 3199,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2286,
-								2286
+								125,
+								125
 							]
 						],
 						"settings":
@@ -1080,7 +1076,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 826.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1118,15 +1114,15 @@
 					"file": "js/register.js",
 					"settings":
 					{
-						"buffer_size": 1849,
+						"buffer_size": 1853,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								904,
-								904
+								21,
+								61
 							]
 						],
 						"settings":
@@ -1136,7 +1132,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 169.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
