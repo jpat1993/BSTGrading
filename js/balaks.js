@@ -68,7 +68,7 @@ function essayLayout(results) {
 
         var myDiv = document.createElement("div");
 
-        var t = document.createTextNode(object.get('center') + ' - ' + "\n name : " + object.get('name'));
+        var t = document.createTextNode(object.get('center') + ' - ' + "\n name : " + object.get('firstname'));
 
         var essay = document.createElement("button");
 
@@ -124,7 +124,7 @@ function recomLayout(results) {
 
         var myDiv = document.createElement("div");
 
-        var t = document.createTextNode(object.get('center') + ' - ' + "\n name : " + object.get('name'));
+        var t = document.createTextNode(object.get('center') + ' - ' + "\n name : " + object.get('firstname'));
 
         // var centersend = object.get('center');
         // var namesend = object.get('name');
@@ -185,7 +185,7 @@ function rcLayout(results) {
 
         var myDiv = document.createElement("div");
 
-        var t = document.createTextNode(object.get('center') + ' - ' + "\n name : " + object.get('name'));
+        var t = document.createTextNode(object.get('center') + ' - ' + "\n name : " + object.get('firstname'));
 
         var box = document.createElement("button");
 
