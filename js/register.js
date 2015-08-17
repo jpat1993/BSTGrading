@@ -1,8 +1,8 @@
 
 
 
-Parse.initialize("dkIOa239YEj8p5VxlmnvQje4yJ9u5J0fTVzoBMv9", "n4KsOJHBIZVXOPDR29EErW9kPnXHE18nIMhb1EsG");
-var DB = "Test";
+Parse.initialize("1dlfQyT8N0OrUJXzRWk9gtWz3fXHYNgKnZNOhWyY", "OTs8JFyPYJ3yrm03qc1jgY9NGCFJBXqsxsNCKT8E");
+var DB = "SEEBSTDB";
 
 
 

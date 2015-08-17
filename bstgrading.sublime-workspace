@@ -355,7 +355,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 1361,
+				"buffer_size": 1403,
 				"line_ending": "Unix"
 			}
 		},
@@ -379,7 +379,7 @@
 			"file": "js/balaks.js",
 			"settings":
 			{
-				"buffer_size": 7847,
+				"buffer_size": 8140,
 				"line_ending": "Windows"
 			}
 		},
@@ -395,7 +395,7 @@
 			"file": "js/rc.js",
 			"settings":
 			{
-				"buffer_size": 3347,
+				"buffer_size": 3369,
 				"line_ending": "Windows"
 			}
 		},
@@ -411,7 +411,7 @@
 			"file": "js/recom.js",
 			"settings":
 			{
-				"buffer_size": 3042,
+				"buffer_size": 3141,
 				"line_ending": "Windows"
 			}
 		},
@@ -427,7 +427,7 @@
 			"file": "js/essay.js",
 			"settings":
 			{
-				"buffer_size": 3100,
+				"buffer_size": 3195,
 				"line_ending": "Windows"
 			}
 		},
@@ -435,7 +435,7 @@
 			"file": "pages/register.html",
 			"settings":
 			{
-				"buffer_size": 4625,
+				"buffer_size": 4609,
 				"line_ending": "Windows"
 			}
 		},
@@ -443,7 +443,7 @@
 			"file": "js/register.js",
 			"settings":
 			{
-				"buffer_size": 1706,
+				"buffer_size": 1849,
 				"line_ending": "Windows"
 			}
 		},
@@ -451,7 +451,7 @@
 			"file": "css/style.css",
 			"settings":
 			{
-				"buffer_size": 10420,
+				"buffer_size": 10452,
 				"line_ending": "Unix"
 			}
 		}
@@ -496,6 +496,8 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Jay Patel/AppData/Local/Temp/Temp1_DeDRM_plugin.zip/mobidedrm.py",
+		"/C/Users/Jay Patel/Desktop/DeDRM_tools_6.3.3/DeDRM_calibre_plugin/DeDRM_plugin/mobidedrm.py",
 		"/C/Users/Jay Patel/Desktop/DeDRM_tools_6.3.3/ReadMe_First.txt",
 		"/C/Users/Jay Patel/Desktop/DeDRM_tools_6.3.3/DeDRM_calibre_plugin/DeDRM_plugin_ReadMe.txt",
 		"/C/xampp/htdocs/BSTGrading/css/bootstrap.min.css",
@@ -621,9 +623,7 @@
 		"/C/Users/Jay Patel/Desktop/CS 2110/HW11/assignment/my_sbrk.c",
 		"/C/Users/Jay Patel/Desktop/RC Seva/Checklist/Trials/simple-flat-buttons-psd/simple-flat-buttons-psd/readme.txt",
 		"/C/Users/Jay Patel/Desktop/CS 2110/Timed Lab 4/timedlab4/valgrind1.c",
-		"/C/Users/Jay Patel/Desktop/CS 2110/Timed Lab 4/timedlab4/valgrind2.c",
-		"/C/Users/Jay Patel/Desktop/CS 2110/Old/CS2110-master/timeLab4/list.c",
-		"/C/Users/Jay Patel/Desktop/CS 2110/Old/CS-2110-master/Labs/timed_lab_04/TL4MAKEUP/tllist.h"
+		"/C/Users/Jay Patel/Desktop/CS 2110/Timed Lab 4/timedlab4/valgrind2.c"
 	],
 	"find":
 	{
@@ -641,6 +641,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"if val406 != 0:",
 			"example",
 			"})",
 			"name",
@@ -767,8 +768,7 @@
 			"3400",
 			"3342",
 			"0000",
-			"3342",
-			"unsigned"
+			"3342"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -802,7 +802,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -810,15 +810,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 1361,
+						"buffer_size": 1403,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								127,
-								127
+								534,
+								534
 							]
 						],
 						"settings":
@@ -845,8 +845,8 @@
 						"selection":
 						[
 							[
-								1018,
-								1018
+								765,
+								765
 							]
 						],
 						"settings":
@@ -856,7 +856,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 169.0,
+						"translation.y": 78.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -894,15 +894,15 @@
 					"file": "js/balaks.js",
 					"settings":
 					{
-						"buffer_size": 7847,
+						"buffer_size": 8140,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6927,
-								6937
+								8043,
+								8043
 							]
 						],
 						"settings":
@@ -912,7 +912,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 93.0,
+						"translation.y": 3139.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -929,8 +929,8 @@
 						"selection":
 						[
 							[
-								5148,
-								5148
+								452,
+								458
 							]
 						],
 						"settings":
@@ -940,7 +940,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 104.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -950,15 +950,15 @@
 					"file": "js/rc.js",
 					"settings":
 					{
-						"buffer_size": 3347,
+						"buffer_size": 3369,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								319,
-								319
+								1753,
+								1753
 							]
 						],
 						"settings":
@@ -968,7 +968,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 754.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -985,8 +985,8 @@
 						"selection":
 						[
 							[
-								94,
-								94
+								420,
+								420
 							]
 						],
 						"settings":
@@ -1006,15 +1006,15 @@
 					"file": "js/recom.js",
 					"settings":
 					{
-						"buffer_size": 3042,
+						"buffer_size": 3141,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								572,
-								572
+								1845,
+								1845
 							]
 						],
 						"settings":
@@ -1024,7 +1024,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 440.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1041,8 +1041,8 @@
 						"selection":
 						[
 							[
-								84,
-								84
+								1120,
+								1120
 							]
 						],
 						"settings":
@@ -1052,7 +1052,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 202.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1062,15 +1062,15 @@
 					"file": "js/essay.js",
 					"settings":
 					{
-						"buffer_size": 3100,
+						"buffer_size": 3195,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								193,
-								193
+								2286,
+								2286
 							]
 						],
 						"settings":
@@ -1080,7 +1080,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 826.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1090,15 +1090,15 @@
 					"file": "pages/register.html",
 					"settings":
 					{
-						"buffer_size": 4625,
+						"buffer_size": 4609,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3405,
-								3405
+								791,
+								791
 							]
 						],
 						"settings":
@@ -1108,7 +1108,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 117.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1118,15 +1118,15 @@
 					"file": "js/register.js",
 					"settings":
 					{
-						"buffer_size": 1706,
+						"buffer_size": 1849,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								470,
-								470
+								904,
+								904
 							]
 						],
 						"settings":
@@ -1136,7 +1136,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 169.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1146,15 +1146,15 @@
 					"file": "css/style.css",
 					"settings":
 					{
-						"buffer_size": 10420,
+						"buffer_size": 10452,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4509,
-								4509
+								5957,
+								5957
 							]
 						],
 						"settings":
@@ -1164,7 +1164,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2870.0,
+						"translation.y": 3881.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

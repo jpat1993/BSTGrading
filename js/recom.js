@@ -1,7 +1,7 @@
 Parse.initialize("1dlfQyT8N0OrUJXzRWk9gtWz3fXHYNgKnZNOhWyY", "OTs8JFyPYJ3yrm03qc1jgY9NGCFJBXqsxsNCKT8E");
 
 
-var DB = "Test";
+var DB = "SEEBSTDB";
 var id;
 var name;
 var getter;
