@@ -24,7 +24,7 @@ function loadRc() {
 
     query.get(id, {
       success: function(details) {
-        name = details.get('name');
+        name = details.get('firstname');
         console.log(name);
         var div = document.getElementById("searchResults");
         var t = document.createTextNode(name);
@@ -87,8 +87,11 @@ $(".rcsubmit").click(function(){
                   value = values[prop].value;
 
                   details.set(name, value);
-                  if (lookup === "recom" && value !== "0") {
-                    check = seva + "recomcheck";
+                  if (lookup === "Sanchrecom" && value !== "0") {
+                    check = seva + "Sanchrecomcheck";
+                    details.set(check, true);
+                  } else if (lookup === "RCrecom" && value !== "0") {
+                    check = seva + "RCrecomcheck";
                     details.set(check, true);
                   } else if (lookup === "niyam" && value !== "0") {
                     check2 = seva + "niyamcheck";

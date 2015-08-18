@@ -24,7 +24,7 @@ function loadRecom() {
 
     query.get(id, {
       success: function(details) {
-        name = details.get('name');
+        name = details.get('firstname');
         console.log(name);
         var div = document.getElementById("searchResults");
         var t = document.createTextNode(name);

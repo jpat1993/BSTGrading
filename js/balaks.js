@@ -194,14 +194,14 @@ function rcLayout(results) {
         box.setAttribute('class', 'btn btn-default medium');
         box.setAttribute("style","text-align: center", "margin = '50px auto'");
 
-        // for Recom check box
+        // for Sanch Recom check box
         var check = document.createElement('input');
         check.type = 'checkbox';
-        check.id = 'recomDone';
+        check.id = 'SanchrecomDone';
         // check.disabled = true;
         check.setAttribute("onclick", "return false");
 
-        var checker = seva + "recomcheck";
+        var checker = seva + "Sanchrecomcheck";
         if (object.get(checker) === true) {
             check.checked = true;   
         } else {
@@ -209,9 +209,29 @@ function rcLayout(results) {
         }
 
         var newlabel = document.createElement("label");
-        newlabel.setAttribute("for","recomDone");
+        newlabel.setAttribute("for","SanchrecomDone");
         newlabel.setAttribute("style","color:#6F84FF");
-        newlabel.innerHTML = "Recommendation";
+        newlabel.innerHTML = "Sanch. Recommendation";
+
+        // for RC Recom check box
+        var check4 = document.createElement('input');
+        check4.type = 'checkbox';
+        check4.id = 'RCrecomDone';
+        // check.disabled = true;
+        check4.setAttribute("onclick", "return false");
+
+        var checker4 = seva + "RCrecomcheck";
+        if (object.get(checker4) === true) {
+            check4.checked = true;   
+        } else {
+            check4.checked = false;
+        }
+
+        var newlabel4 = document.createElement("label");
+        newlabel4.setAttribute("for","RCrecomDone");
+        newlabel4.setAttribute("style","color:#6F84FF");
+        newlabel4.innerHTML = "RC Recommendation";
+
 
         // for niyam check box
         var check2 = document.createElement('input');
@@ -256,10 +276,13 @@ function rcLayout(results) {
         myDiv.appendChild(box);
         myDiv.appendChild(check);
         myDiv.appendChild(newlabel);
+        myDiv.appendChild(check4);
+        myDiv.appendChild(newlabel4);
         myDiv.appendChild(check2);
         myDiv.appendChild(newlabel2);
         myDiv.appendChild(check3);
         myDiv.appendChild(newlabel3);
+
 
         div.appendChild(myDiv);
 

@@ -123,7 +123,7 @@ fieldset[disabled] a.btn {
 
 .balak-card {
   padding: 40px;
-  width: 50vw;
+  width: 60vw;
   background-color: #F7F7F7;
   margin: 0 auto 10px;
   border-radius: 2px;
@@ -313,6 +313,14 @@ h3#header {
 
 h3 {
     text-align: center;
+}
+
+textarea#Sanchrecomcomment {
+  width: 75%;
+}
+
+textarea#RCrecomcomment {
+  width: 75%;
 }
 
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */

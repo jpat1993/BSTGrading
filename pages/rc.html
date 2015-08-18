@@ -25,13 +25,34 @@
         <h5 class="fs-subtitle" id = "searchResults" >Please enter in a Recommendation between 1 and 5 for :  </h5>
 
         <div class="form-group" >
-            <label class = "titles">Enter in any comments below: </label>
+            <label class = "titles">Enter in any Sanchalak comments below: </label>
             <div class="example" dir="ltr">Please answer in 3-5 sentences</div>
             
-            <textarea  id="recomcomment" name="recomcomment" rows="5"></textarea>
+            <textarea  id="Sanchrecomcomment" name="Sanchrecomcomment" rows="5"></textarea>
+            <br>
+            <br>
+            <label class = "titles-grade">Sanchalak Recommendation Score: (Out of 5)</label>
+            <select class="input required" id = "Sanchrecom" name = "Sanchrecom">
+                <option disabled>Select an Option</option>
+                <option value="0">0</option>
+                <option value="1">1</option> 
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option> 
+                                       
+            </select>
+        </div>
+
+        <div class="form-group" >
+            <label class = "titles">Enter in any RC comments below: </label>
+            <div class="example" dir="ltr">Please answer in 3-5 sentences</div>
             
-            <label class = "titles-grade">Recommendation Score: (Out of 5)</label>
-            <select class="input required" id = "recom" name = "recom">
+            <textarea  id="RCrecomcomment" name="RCrecomcomment" rows="5"></textarea>
+            <br>
+            <br>
+            <label class = "titles-grade">RC Recommendation Score: (Out of 5)</label>
+            <select class="input required" id = "RCrecom" name = "RCrecom">
                 <option disabled>Select an Option</option>
                 <option value="0">0</option>
                 <option value="1">1</option> 
