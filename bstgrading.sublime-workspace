@@ -379,7 +379,7 @@
 			"file": "js/balaks.js",
 			"settings":
 			{
-				"buffer_size": 8159,
+				"buffer_size": 8922,
 				"line_ending": "Windows"
 			}
 		},
@@ -387,7 +387,7 @@
 			"file": "pages/rc.html",
 			"settings":
 			{
-				"buffer_size": 6115,
+				"buffer_size": 7071,
 				"line_ending": "Windows"
 			}
 		},
@@ -395,7 +395,7 @@
 			"file": "js/rc.js",
 			"settings":
 			{
-				"buffer_size": 3373,
+				"buffer_size": 3555,
 				"line_ending": "Windows"
 			}
 		},
@@ -411,7 +411,7 @@
 			"file": "js/recom.js",
 			"settings":
 			{
-				"buffer_size": 3145,
+				"buffer_size": 3150,
 				"line_ending": "Windows"
 			}
 		},
@@ -451,7 +451,7 @@
 			"file": "css/style.css",
 			"settings":
 			{
-				"buffer_size": 10452,
+				"buffer_size": 10541,
 				"line_ending": "Unix"
 			}
 		}
@@ -641,6 +641,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			";\n",
+			"searchresults",
 			"if val406 != 0:",
 			"example",
 			"})",
@@ -766,8 +768,6 @@
 			"seen",
 			"background",
 			"3400",
-			"3342",
-			"0000",
 			"3342"
 		],
 		"highlight": true,
@@ -802,7 +802,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 7,
 			"sheets":
 			[
 				{
@@ -894,12 +894,16 @@
 					"file": "js/balaks.js",
 					"settings":
 					{
-						"buffer_size": 8159,
+						"buffer_size": 8922,
 						"regions":
 						{
 						},
 						"selection":
 						[
+							[
+								8618,
+								8618
+							]
 						],
 						"settings":
 						{
@@ -908,7 +912,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1317.0,
+						"translation.y": 3402.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -918,15 +922,15 @@
 					"file": "pages/rc.html",
 					"settings":
 					{
-						"buffer_size": 6115,
+						"buffer_size": 7071,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								452,
-								458
+								2043,
+								2050
 							]
 						],
 						"settings":
@@ -936,7 +940,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 104.0,
+						"translation.y": 147.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -946,15 +950,15 @@
 					"file": "js/rc.js",
 					"settings":
 					{
-						"buffer_size": 3373,
+						"buffer_size": 3555,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								126,
-								126
+								1657,
+								1657
 							]
 						],
 						"settings":
@@ -964,7 +968,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 832.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1002,15 +1006,15 @@
 					"file": "js/recom.js",
 					"settings":
 					{
-						"buffer_size": 3145,
+						"buffer_size": 3150,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								126,
-								126
+								1241,
+								1241
 							]
 						],
 						"settings":
@@ -1020,7 +1024,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 59.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1142,15 +1146,15 @@
 					"file": "css/style.css",
 					"settings":
 					{
-						"buffer_size": 10452,
+						"buffer_size": 10541,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5957,
-								5957
+								2347,
+								2347
 							]
 						],
 						"settings":
@@ -1160,7 +1164,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3881.0,
+						"translation.y": 1307.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

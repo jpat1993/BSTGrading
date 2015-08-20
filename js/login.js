@@ -2,6 +2,7 @@
 
 
 Parse.initialize("1dlfQyT8N0OrUJXzRWk9gtWz3fXHYNgKnZNOhWyY", "OTs8JFyPYJ3yrm03qc1jgY9NGCFJBXqsxsNCKT8E");
+Parse.User.enableRevocableSession();
 var DB = "SEEBSTDB";
 var centers;
 
@@ -65,6 +66,8 @@ $(".login").click(function(e){
       },
       error: function(user, error) {
         // The login failed. Check error to see why.
+
+        handleParseError(error);
         alert("Error: " + error.code + " " + error.message);
       }
 
@@ -74,6 +77,18 @@ $(".login").click(function(e){
       event.preventDefault();
 
 })
+
+function handleParseError(err) {
+  switch (err.code) {
+    case Parse.Error.INVALID_SESSION_TOKEN:
+      Parse.User.logOut();
+      window.location="index.html";
+      break;
+  }
+}
+
+
+
 
 $(".forgot").click(function(){
 
