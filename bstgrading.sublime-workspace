@@ -363,7 +363,7 @@
 			"file": "js/login.js",
 			"settings":
 			{
-				"buffer_size": 2357,
+				"buffer_size": 2613,
 				"line_ending": "Windows"
 			}
 		},
@@ -802,7 +802,7 @@
 	"groups":
 	[
 		{
-			"selected": 7,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -838,25 +838,25 @@
 					"file": "js/login.js",
 					"settings":
 					{
-						"buffer_size": 2357,
+						"buffer_size": 2613,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								321,
-								321
+								1967,
+								1967
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 839.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

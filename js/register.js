@@ -63,14 +63,20 @@ $(".register").click(function(e){
       },
       error: function(user, error) {
         // Show the error message somewhere and let the user try again.
+        handleParseError(error);
         alert("Error: " + error.code + " " + error.message);
       }
     });
-    
-    
-    
-
 })
+
+function handleParseError(err) {
+  switch (err.code) {
+    case Parse.Error.INVALID_SESSION_TOKEN:
+      Parse.User.logOut();
+      window.location="index.html";
+      break;
+  }
+}
 
 
 $(".home").click(function(e){
